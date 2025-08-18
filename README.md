@@ -1,4 +1,4 @@
-# 🖼️ Dream Snap - AI Image Generator
+#  Dream Snap - AI Image Generator
 
 Dream Snap is a full-stack web application that allows users to generate high-quality images using AI. Built using the MERN stack and integrated with image generation APIs, it offers real-time image previews, download functionality, and a clean, responsive UI.
 
